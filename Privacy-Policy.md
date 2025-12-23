@@ -17,7 +17,8 @@ By using the App, you agree to the terms described in this Privacy Policy.
 ### A. Personal Information (Required for Account Creation)
 We collect the following information when you create an account:
 - Name
-- Email Address (encrypted via Firebase Authentication)
+- Email Address
+- Password (encrypted via Firebase Authentication)
 
 We do **not** collect sensitive financial details such as bank accounts or payment card information.
 
@@ -33,7 +34,7 @@ These analytics are collected using Firebase Analytics.
 - Paper trading transactions and portfolio values
 - Backtesting strategies and related simulation results
 
-This data is stored locally on your device using SQLite and is not shared externally.
+This data is stored locally on your device using SQLite and is only shared externally when you choose to get notified on the live status of a strategy for a stock.
 
 ---
 
@@ -43,13 +44,14 @@ We use the information we collect for the following purposes:
 - To provide secure login and authentication services
 - To improve App functionality and user experience through feature usage analytics
 - To troubleshoot technical issues and maintain security
+- To send custom notifications on your strategy status
 
 We do **not** sell, rent, or trade your personal information.
 
 ---
 
 ## 4. Data Storage and Security
-- Account data (name, email) is stored securely using Firebase Authentication.  
+- Account data (name, email, encrypted password) is stored securely using Firebase Authentication.  
 - Feature analytics data is collected by Firebase Analytics in an aggregated, anonymous form.  
 - Portfolio and trading data are stored locally on your device and never uploaded to external servers.  
 
