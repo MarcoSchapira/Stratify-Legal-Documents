@@ -1,8 +1,12 @@
 # End User License Agreement (EULA)
 
-**Effective Date:** July 30, 2025  
+**Effective Date:** December 29, 2025  
 **App Name:** Stratify 
-**Developer:** Marco Schapira, Justen Chartrand, Aleksandar (Sasha) Mihajlovski
+**Developer:** Marco Schapira, Justen Chartrand
+
+---
+
+“Stratify,” “we,” “our,” and “us” refer to the developers of the app.
 
 ---
 
@@ -69,6 +73,8 @@ The App is for **educational and simulation purposes only** and does not provide
 No feature, result, or signal within the App guarantees any specific financial outcome.  
 All trading decisions made based on simulated data, strategy backtesting, or generated signals are entirely at your own risk.
 
+Strategy status labels such as “BUY” or “SELL,” and any notifications regarding changes in status, are educational outputs only and are not advice or instructions to trade. These outputs do not represent recommendations or signals to execute real financial transactions.
+
 This App is not a trading platform, brokerage service, or financial advisor and is not intended for real-world investment decisions.
 
 ---
@@ -82,6 +88,10 @@ While we strive to ensure the App operates reliably and accurately, you acknowle
   - Reliance on incorrect or incomplete data;  
   - Backend code bugs or unexpected behavior in simulations;  
   - Any error, outage, or service interruption.
+- Stock prices and market information are sourced from a third-party data provider. We do not control or guarantee the availability, accuracy, completeness, or timeliness of this data. Data may be delayed, incorrect, or unavailable at times.
+
+## 8.1 Notification Delivery
+Notifications may be delayed, filtered, or fail to send due to device settings, connectivity, server issues, or third-party services. We make no guarantees that notifications will be delivered or delivered on time.
 
 ---
 
